@@ -1,0 +1,12 @@
+END-OF-DAY SALES REPORT
+Date: 2026-10-25
+----------------------------------------
+Bill No: BILL-1792931184168 | Date: 2026-10-25 23:26:24.0 | Amount: Rs. 65.00
+Bill No: BILL-1792932075694 | Date: 2026-10-25 23:41:15.0 | Amount: Rs. 85.00
+Bill No: BILL-1792932179456 | Date: 2026-10-25 23:42:59.0 | Amount: Rs. 100.00
+Bill No: BILL-1792933283785 | Date: 2026-10-26 00:01:23.0 | Amount: Rs. 40.00
+Bill No: BILL-1792933985629 | Date: 2026-10-26 00:13:05.0 | Amount: Rs. 60.00
+Bill No: BILL-1792934108654 | Date: 2026-10-26 00:15:08.0 | Amount: Rs. 55.00
+----------------------------------------
+Number of Bills: 6
+Total Sales: Rs. 405.00

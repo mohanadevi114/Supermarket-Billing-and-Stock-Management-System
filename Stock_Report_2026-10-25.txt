@@ -1,0 +1,14 @@
+SUPERMARKET STOCK REPORT
+Date: 2026-10-25
+----------------------------------------
+Barcode | Product | Price | Stock
+----------------------------------------
+1005 | Biscuits | Rs. 20.0 | 99
+1003 | Bread | Rs. 40.0 | 23
+1006 | Jam | Rs. 40.0 | 146
+1002 | Milk 500ml | Rs. 30.0 | 40
+1007 | oil | Rs. 20.0 | 39
+1001 | Rice 1kg | Rs. 65.0 | 46
+1004 | Soap | Rs. 35.0 | 58
+----------------------------------------
+End of Stock Report
